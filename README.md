@@ -29,7 +29,7 @@ PokeMMO requiere una ROM compatible de **Black/White 1**. Para acceder al conten
 
 ## Instalación
 
-1. Obtenga el paquete de la versión 1.0, identificado como `PokeMMO_PS5_candidato.ffpfsc`. El ZIP de fuentes no es el paquete que se monta en la consola. Los archivos se publicarán en Releases cuando estén preparados y se haya revisado su contenido.
+1. Obtenga el paquete de la versión 1.0, identificado como `PokeMMO_PS5_1.0.ffpfsc`. El ZIP de fuentes no es el paquete que se monta en la consola. Los archivos se publicarán en Releases cuando estén preparados y se haya revisado su contenido.
 2. Cierre por completo el título si ya está abierto.
 3. Copie el `.ffpfsc` a la carpeta que escanea ShadowMount Plus. En la instalación utilizada se emplea `/data/homebrew/`.
 4. Evite conservar varios paquetes del mismo título **PPSA99995** en las carpetas escaneadas.
